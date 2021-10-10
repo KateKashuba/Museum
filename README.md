@@ -1,4 +1,4 @@
-# Museum 2 landing page
+# Museum landing page
 The landing page, created for National Art Museum of Ukraine.
 
 1. Stack:
